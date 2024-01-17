@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "776493444055",
+    "firebase_url": "https://companyfb-d3e64-default-rtdb.firebaseio.com",
+    "project_id": "companyfb-d3e64",
+    "storage_bucket": "companyfb-d3e64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776493444055:android:1c690e890ec0b10b21b992",
+        "android_client_info": {
+          "package_name": "com.example.companyfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQK3cdn4UxQqPcpAFpuQX97x3ScgZEHZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
